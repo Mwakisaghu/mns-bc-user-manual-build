@@ -14,7 +14,7 @@ Hello! lets get started with setting up the procurement section! This guide will
 </div>
 :::
 
-## 2.1. Configuring Procurement Settings.
+## Configuring Procurement Settings.
 
 ### General Setup Options
 
@@ -29,6 +29,10 @@ Hello! lets get started with setting up the procurement section! This guide will
 1. Access the Purchase & Payables Setup page:
    - Click on the search icon, enter ![icon](image.png) ***purchases and payables*** and then choose the related list.
    - Select Purchase & Payables Setup from the menu.
+
+   A page will apear as show below :
+   ![alt text](../../static/img/p_&_s.png)"
+
 2. Define purchase values:
    - Set up number series for vendors and purchase documents.
 
@@ -39,13 +43,14 @@ In cases where there is a dropdown, choose **New** to create a new field or sele
 
 ### Vendor Management Configuration
 
-1. Navigate to the Vendor Management section:
-   - Click on the Settings icon.
-   - Select Vendor Management from the menu.
+1. Navigate to the **Order Planning** section:
+   - Alternatively, click on the search bar and search for **Vendors**.
+   - Select Vendor/Vendor List from the menu.
+   
 2. Set up vendor management parameters:
    - Configure vendor categories, payment terms, and other relevant information.
 
-## 2.2. Defining Purchase Policies and Procedures
+## Defining Purchase Policies and Procedures
 
 ### Establishing Purchase Policies
 
@@ -58,7 +63,7 @@ In cases where there is a dropdown, choose **New** to create a new field or sele
    - Define approval rules based on factors such as **purchase amount** and **vendor category**.
 
 
-## 2.3. Setting Up Vendors
+## Setting Up Vendors
 
 ### Register New Vendors
 - Vendor cards contain the information required to buy products from each vendor.
@@ -88,7 +93,7 @@ Vendor information can be edited at any time, except if transactions have been p
 
 :::tip
 
-## 2.4 Bank Details Setup
+## Bank Details Setup
 ### Add or edit a vendor bank account
 - Choose the ![icon](image.png) that opens the Tell Me feature. icon, enter Vendors, and then choose the related link.
 - Open the vendor card.

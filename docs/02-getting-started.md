@@ -22,9 +22,9 @@ Welcome to Dynamics 365 Business Central! This quick start guide will help you g
 
 To access your Dynamics 365 Business Central account:
 
-- Open your web browser and navigate to the Business Central login page.
-- Enter your username and password.
-- Click "Sign In" to access your account.
+- Open your web browser and navigate to the **Business Central login page**.
+- Enter your **username** and **password**.
+- Click **Sign In** to access your account.
 
 ### 2. Navigate the Dashboard / Role Center
 
@@ -35,13 +35,15 @@ Once logged in, you'll be taken to the Business Central dashboard. Here you can:
 ### 3. Setting Up Your Company
 
 Before you can start using Business Central, you'll need to set up your company profile:
-- Click on the "Company Settings" or "Setup" menu option.
+- Click on the **Company Settings** or **Settings** menu option.
 - Follow the on-screen instructions to enter your company information, such as name, address, and fiscal year settings.
 
 :::note Note
 - Setting up your company profile accurately is crucial for proper functioning and reporting within Business Central.
 - Ensure that you enter correct and up-to-date information to avoid any discrepancies in your financial records.
 :::
+
+![alt text](../static/img/merged.png)
 
 ## Next Steps: Exploring Business Central
 

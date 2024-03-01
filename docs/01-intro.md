@@ -51,14 +51,13 @@ To access Microsoft Dynamics 365 Business Central, follow these steps:
 
 3. **Enter Your Credentials:** Input your username and password provided by your system administrator.
 
-4. **Sign In:** Click on the "Sign In" button to access your Business Central account.
+4. **Sign 🚀 Tip: Save time by bookmarking the Purchase Quotes section for quick access in the future!d in, you'll find Business Central's intuitive and user-friendly interface easy to navigate. Here are some key navigation points:
 
-### Navigation
-
-Once logged in, you'll find Business Central's intuitive and user-friendly interface easy to navigate. Here are some key navigation points:
-
-- **Navigation Menu:** Use the navigation menu on the left-hand side to access different modules and functionalities within Business Central.
+- **Navigation Menu:** Use the navigation menu on the right-hand side to access different modules(Role Centers) and functionalities within Business Central.
 - **Search Bar:** Utilize the search bar at the top to quickly find specific pages, reports, or tasks.
 - **Shortcut Tiles:** Customize your dashboard with shortcut tiles to frequently accessed features.
 
-Congratulations! You're now equipped with the knowledge to begin your journey with Microsoft Dynamics 365 Business Central.
+![alt text](../static/img/business_central.png)
+
+
+**Congratulations! You're now equipped with the knowledge to begin your journey with Microsoft Dynamics 365 Business Central.**
