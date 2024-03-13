@@ -1,98 +1,15 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
+/* Original CSS code before conflict */
 
-/* You can override the default Infima variables here. */
-:root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
-  --ifm-code-font-size: 95%;
+.customized-intro-container {
+  background-color: #0078d4; /* Blue shade */
+  color: white; /* White text */
+  padding: 20px; /* Adjust padding as needed */
+  border-radius: 5px; /* Rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.1);
-  display: block;
-  margin: 0 calc(-1 * var(--ifm-pre-padding));
-  padding: 0 var(--ifm-pre-padding);
-}
+/* Merged CSS */
 
-.custom-note {
-  background-color: #007acc; /* Adjust color as needed */
-  color: white;
-  padding: 20px;
-  margin-bottom: 20px; /* Add space below the div */
-}
-
-.procurement-intro-container {
-  background-color: #f2f2f2;
-  padding: 20px;
-  border-radius: 5px;
-  margin-bottom: 20px;
-}
-
-.procurement-intro-heading {
-  color: #333;
-}
-
-.procurement-overview-container {
-  margin-bottom: 20px;
-}
-
-.procurement-overview-item {
-  background-color: #eaeaea;
-  padding: 10px;
-  border-radius: 5px;
-  margin-bottom: 10px;
-}
-
-.procurement-overview-item h4 {
-  margin-bottom: 5px;
-}
-
-.order-planning-section {
-  background-color: #004080; /* Darker shade of blue */
-  color: #fff; /* White text color for contrast */
-  border-radius: 10px; /* Rounded corners */
-  padding: 20px; /* Add padding for spacing */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Drop shadow for depth */
-  margin-bottom: 20px; /* Add space below the container */
-}
-
-.order-planning-intro-heading {
-  font-size: 24px; /* Larger font size */
-  font-weight: bold; /* Bold text */
-  margin-bottom: 10px; /* Add space below the heading */
-}
-
-.order-planning-section p {
-  font-size: 16px; /* Normal font size */
-  line-height: 1.6; /* Adjust line height for better readability */
-}
-
-.purchase-requisition-section {
-  background-color: #f5f5f5; /* Light gray background */
-  border-radius: 10px; /* Rounded corners */
-  padding: 20px; /* Add padding for spacing */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Drop shadow for depth */
-  margin-bottom: 20px; /* Add space below the container */
-}
-
-.purchase-requisition-intro-heading {
-  color: #333; /* Dark text color */
-  font-size: 24px; /* Larger font size */
-  font-weight: bold; /* Bold text */
-  margin-bottom: 10px; /* Add space below the heading */
-}
-
-/*  */
-  
 .sliderbody {
   max-width: 750px;
   max-height: 550px;
@@ -104,14 +21,12 @@
   margin-left: -55px;
 }
 
-
 .carousel {
   position: relative;
   padding-top: 57%;
   filter: drop-shadow(0 0 10px #0003);
   perspective: 100px;
   margin: 0 auto;
-  
 }
 
 li.carousel__slide::marker {
@@ -140,7 +55,6 @@ li.carousel__slide::marker {
   counter-increment: item;
 }
 
-
 .carousel__snapper section {
   margin: 0 auto;
 }
@@ -153,7 +67,6 @@ li.carousel__slide::marker {
   height: 100%;
   scroll-snap-align: center;
 }
-
 
 .carousel:hover .carousel__snapper,
 .carousel:focus-within .carousel__snapper {
@@ -175,16 +88,6 @@ li.carousel__slide::marker {
   outline: 0;
 }
 
-.customized-intro-container {
-  background-color: #0078d4; /* Blue shade */
-  color: white; /* White text */
-  padding: 20px; /* Adjust padding as needed */
-  border-radius: 5px; /* Rounded corners */
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
-
