@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Prepared By',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/Sky_world_logo.svg').default,
     description: (
       <>
         SKY WORLD LIMITED.
