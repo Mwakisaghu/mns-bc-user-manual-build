@@ -1,4 +1,16 @@
-/* Original CSS code before conflict */
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+.custom-note {
+  background-color: #007acc; /* Adjust color as needed */
+  color: white;
+  padding: 20px;
+  margin-bottom: 20px; /* Add space below the div */
+}
 
 .customized-intro-container {
   background-color: #0078d4; /* Blue shade */
