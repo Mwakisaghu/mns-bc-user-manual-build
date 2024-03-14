@@ -1,4 +1,5 @@
 # Tenancy Section
+---
 
 <div class="customized-intro-container" id="introduction">
     <h2 class="product-variations"> Objective :</h2>
