@@ -1,4 +1,4 @@
-# Getting started with Treasury and Investmentss.
+# Getting started with Treasury and Investments.
 ---
 
 :::note Business Central
