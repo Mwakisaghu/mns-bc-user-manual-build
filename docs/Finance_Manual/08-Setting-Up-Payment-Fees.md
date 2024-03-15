@@ -1,8 +1,10 @@
-# 🏷️ Setting Up Payment Fees
+# 📦 Setting Up Payment Fees
+---
 
 Payment fees allow you to manage additional charges associated with vendor invoices efficiently. Let's dive into setting up payment fees seamlessly:
 
 ## Utilizing Payment Fees
+---
 
 Payment fees serve the following purposes:
 - Specify additional charges on vendor invoices, such as promissory note issuance fees or vendor bank remittance fees.
@@ -17,6 +19,7 @@ To create a payment fee:
 [Picture/Screenshot!!!!!!!]
 
 ## Defining Payment Fee Specifications
+---
 
 You can set up payment fees with various specifications, including:
 - Different banks
@@ -32,6 +35,7 @@ Specify payment specifications in the **Payment Specification** field and choose
 [Picture/Screenshot!!!!!]
 
 ## Sales Tax Considerations
+---
 
 In cases where sales tax is applicable, the net amount is posted to a ledger account, while the sales tax amount is posted to a sales tax account. Additionally, you can enter fees for selected payment fee setup lines based on the interval between remittance and due dates.
 

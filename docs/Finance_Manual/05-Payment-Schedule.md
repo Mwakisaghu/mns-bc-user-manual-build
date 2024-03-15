@@ -1,4 +1,5 @@
-# 📜 Configuring Payment Schedules
+# 📦 Configuring Payment Schedules
+---
 
 Welcome to the Payment Schedules Configuration guide in Dynamics 365 Finance! Payment schedules allow you to manage your invoices in installments, offering flexibility in financial transactions. Let's walk through the steps to set up your payment schedules efficiently:
 

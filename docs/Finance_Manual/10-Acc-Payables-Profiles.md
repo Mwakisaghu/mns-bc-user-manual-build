@@ -1,8 +1,10 @@
-# 📝 Setting Up Accounts Payable Posting Profiles
+# 📦 Setting Up Accounts Payable Posting Profiles
+---
 
 Posting profiles play a crucial role in defining summary accounts for vendors, ensuring accurate and efficient financial management. Let's dive into configuring accounts payable posting profiles:
 
 ## Understanding Posting Profiles
+---
 
 Posting profiles define summary accounts for vendors and can be assigned to:
 - A single vendor
@@ -15,6 +17,7 @@ When posting vendor transactions automatically, Finance follows a specific order
 3. If neither exists, the posting profile line for all vendors is used.
 
 ## Setting Up Vendor Posting Profiles
+---
 
 To create vendor posting profiles:
 1. Navigate to > ****Accounts Payable* > *Setup* > *Vendor Posting Profiles*.***
@@ -23,6 +26,7 @@ To create vendor posting profiles:
 [Picture/Screenshot!!!!!!!]
 
 ## Handling Vendor Invoices
+---
 
 - If using an invoice register and approval journal, invoices are recorded as arrivals until approved and then transferred to the vendor summary account.
 - If not using an invoice register, invoices are updated directly in the vendor summary account.
@@ -30,5 +34,6 @@ To create vendor posting profiles:
 For detailed procedures on daily Accounts Payable tasks, refer to the documentation.
 
 ## Setting Default Posting Profile
+---
 
-After creating posting profiles, set a default profile in > ****Accounts Payable* > *Setup* > *Accounts Payable Parameters**** under the ***Ledger and Sales Tax*** tab.
+- After creating posting profiles, set a default profile in > ****Accounts Payable* > *Setup* > *Accounts Payable Parameters**** under the ***Ledger and Sales Tax*** tab.

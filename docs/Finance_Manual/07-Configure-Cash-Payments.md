@@ -1,8 +1,12 @@
-# 🎁 Configuring Cash Discounts
+# 📦 Configuring Cash Discounts
+---
 
 Welcome to the Cash Discounts Configuration guide in Dynamics 365 Finance! Cash discounts provide opportunities for savings on vendor invoices, ensuring efficient financial management. Let's explore how to set up cash discounts effectively:
 
+---
+
 ## Skyworld's Cash Discount Strategy
+---
 Skyworld offers cash discounts to incentivize prompt payment of vendor invoices. Here's their discount structure:
 
 - 5D10%: 10% discount if paid within five days.
@@ -11,7 +15,9 @@ Skyworld offers cash discounts to incentivize prompt payment of vendor invoices.
 The discounts occur sequentially as the due date approaches, with only one discount being granted.
 
 ## Setting Up Cash Discounts
-### 📝 Cash Discounts Page:
+---
+
+- ### Cash Discounts Page:
 
 - Specify cash discount codes and their corresponding next discount codes.
 - For instance, select the 10D5% code as the next discount code for the 5D10% code.
@@ -22,7 +28,8 @@ The discounts occur sequentially as the due date approaches, with only one disco
 
 
 ## Cash-Discount Administration Setup
-### ⚙️ Accounts Payable Parameters:
+---
+- ### Accounts Payable Parameters:
 
 - Configure how overpayments or underpayments are handled when cash discounts are not deducted.
 - Choose between **Unspecific** or **Specific** options based on your preference.
@@ -32,14 +39,16 @@ The discounts occur sequentially as the due date approaches, with only one disco
 [Picture/Screenshot!!!!]
 
 ## Example Scenario
-### 🔍 Understanding the Options:
+---
+- ### Understanding the Options:
 
 Consider a vendor invoice total of 105.00 USD with a cash discount of 10.50 USD.
 If the Cash-discount administration parameter is set to **Unspecific,** the difference of 0.50 USD is posted to the ledger account for cash discount differences.
 If set to **Specific,** the difference is posted to the vendor's cash discount account.
 
 ## Additional Configuration
-### 🔧 Sales Tax Consideration:
+---
+- ### Sales Tax Consideration:
 
 Configure whether cash discounts are calculated based on the amount including sales tax.
 Enable the "Cash discount is calculated on amount including sales tax" option in General ledger parameters under the Sales tax tab.

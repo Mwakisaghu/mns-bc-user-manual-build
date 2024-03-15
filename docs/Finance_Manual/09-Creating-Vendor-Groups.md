@@ -1,8 +1,10 @@
 # 📦 Creating Vendor Groups
+---
 
 Vendor groups enable you to organize vendors based on shared characteristics, streamlining information management and default settings. Let's embark on setting up vendor groups effectively:
 
 ## Understanding Vendor Groups
+---
 
 Vendor groups serve multiple purposes, including:
 - Setting default information for new vendors, such as terms of payment and sales tax group.
@@ -16,12 +18,14 @@ To create vendor groups:
 [Picture/Screenshot!!!!!!!!]
 
 ## Scenario: Adventure Works Cycles
+---
 
 Adventure Works Cycles manages multiple vendors and utilizes vendor groups to:
 - Specify ledger posting for each vendor group, assigning accounts for vendor debts, arrival, receipts, item consumption, and discounts.
 - Record sales budgets and generate trade statistics per vendor group.
 
 ## Setting Up General Posting Rules
+---
 
 To establish general posting rules for items, accounts, and sales-tax codes:
 1. Go to > ****Accounts Payable* > *Vendors* > *Vendor Groups*.***

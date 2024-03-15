@@ -1,4 +1,5 @@
 # Accounts Payables
+---
 
 
 :::note Business Central
@@ -9,26 +10,31 @@
 </div>
 :::
 
-## **Payment Options Include:**
+---
 
-- 💳 **Payment Schedules**
-- 📅 **Payment Days**
-- ⏳ **Terms of Payment**
-- 💰 **Cash Discounts**
-- 🏦 **Methods of Payment**
-- 💸 **Payment Fees**
+## **Payment Options Include:**
+---
+
+- **Payment Schedules**
+- **Payment Days**
+- **Terms of Payment**
+- **Cash Discounts**
+- **Methods of Payment**
+- **Payment Fees**
 
 This module serves as your guide to setting up and managing vendor transactions efficiently within the Accounts Payable and Accounts Receivable modules.
 
 ## **Learning Objectives:**
+---
 
-- 🔧 Configure essential components of Accounts Payable.
-- 📝 Create and maintain vendor profiles.
-- 💳 Set up vendor payment preferences.
-- 📊 Configure vendor posting profiles.
-- 💼 Manage Accounts Payable charges.
+- Configure essential components of Accounts Payable.
+- Create and maintain vendor profiles.
+- Set up vendor payment preferences.
+- Configure vendor posting profiles.
+- Manage Accounts Payable charges.
 
 ## **Prerequisites for Accounts Payable Setup**
+---
 
 Before diving into Accounts Payable setup, ensure completion of the following prerequisites:
 
