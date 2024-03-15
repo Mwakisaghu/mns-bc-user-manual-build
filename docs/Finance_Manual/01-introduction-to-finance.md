@@ -12,10 +12,12 @@ sidebar_label: Introduction to Finance
 Before you can begin to run your business, you must specify how you want to manage your company's financial processes.
 
 ## [Setting Up Finance](#Setting-up-finance)
+---
 
 To change the standard configuration of Business Central for most financial processes to suit your business needs, refer to **Setting Up Finance**.
 
 ## [Understanding the General Ledger and the COA](#understanding-the-general-ledger-and-the-coa)
+---
 
 Learn about the general ledger and the chart of accounts (COA) in detail for a better understanding.
 
@@ -50,6 +52,7 @@ Working with VAT in Business Central is easy, and you can either use a manual or
 ---
 
 ## Manage Receivables and Payables
+---
 
 The core of finance is centered around managing receivables and payables, registering transactions, reconciling banks accounts, paying vendors, receiving customer payments, reimbursing employees for expenses, and so on. This section provides links to the core concepts.
 
@@ -63,6 +66,7 @@ The core of finance is centered around managing receivables and payables, regist
 ---
 
 ## Manage Multiple Companies
+---
 
 Business Central gives small and mid-sized businesses a business management solution that's easy-to-use and maintain at a low cost of ownership.
 
@@ -75,6 +79,7 @@ Business Central gives small and mid-sized businesses a business management solu
 ---
 
 ## Period-End Reporting and Related Tasks
+---
 
 At the end of each accounting period or at the end of the fiscal year, there are a number of administrative tasks to do. For example, you'll probably want to make sure all documents and journals are posted, ensure currency data is up to date, close the books, and so on. The actual tasks will depend your company.
 
@@ -87,6 +92,7 @@ At the end of each accounting period or at the end of the fiscal year, there are
 ---
 
 ## Managerial Accounting
+---
 
 As a business manager or controller, it's important that you can prepare and analyze the business data you need to make informed decisions. The articles in the following table help you prepare data. To learn more about analytics, go to Business Intelligence and Reporting Overview.
 

@@ -1,8 +1,10 @@
-# 📅 Payment Schedule Configuration in Dynamics 365 Finance
+# 📦 Payment Schedule Configuration in Dynamics 365 Finance
+---
 
 In Dynamics 365 Finance, the setup of payment schedules plays a pivotal role in managing customer payments efficiently. Before delving into the configuration process, it's important to note that certain payment setups are shared between Accounts Payable and Accounts Receivable, including payment days, payment schedules, terms of payment, and cash discounts.
 
 ## Understanding Payment Schedules
+---
 
 Payment schedules enable the acceptance of customer payments in installments, providing flexibility and convenience. Here's what you need to define when setting up a payment schedule:
 
@@ -13,6 +15,7 @@ Payment schedules enable the acceptance of customer payments in installments, pr
 A payment schedule comprises consecutive payments in specified time intervals, which can either be a set amount or a specified number of payments with equal amounts.
 
 ### Allocation Methods
+---
 
 The allocation method determines how payments are distributed within the payment schedule. Here are the available allocation methods:
 
@@ -22,6 +25,7 @@ The allocation method determines how payments are distributed within the payment
 - **Specified:** Specifies a certain amount due on each specified payment date.
 
 ## Configuring Payment Schedules
+---
 
 To set up a payment schedule, follow these steps:
 
@@ -38,10 +42,12 @@ To set up a payment schedule, follow these steps:
 6. **Complete Setup:** Save the payment schedule configuration.
 
 ## Terms of Payment and Payment Days Configuration
+---
 
 In Dynamics 365 Finance, the setup of terms of payment and payment days is crucial for managing accounts receivable and accounts payable efficiently. These configurations ensure accurate calculation of due dates and streamline payment processes. Let's explore how to set up terms of payment and payment days effectively:
 
 ## Terms of Payment
+---
 
 Terms of payment define the conditions under which a customer or vendor must make payment. They are shared between accounts receivable and accounts payable. Follow these steps to specify terms of payment:
 
@@ -49,6 +55,7 @@ Terms of payment define the conditions under which a customer or vendor must mak
 2. **Assign to Customers or Sales Orders:** Specify terms of payment for customers on the Customers page or for sales orders on the Sales order page.
 
 ## Payment Days
+---
 
 Payment days determine the day used for calculating the due date of invoices. This setting helps in suggesting invoices for payment proposal. Here's how to configure payment days:
 

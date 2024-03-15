@@ -1,4 +1,5 @@
 # Setting Up Finance
+---
 
 :::note Business Central
 <div class="container">
@@ -8,11 +9,13 @@
     </div>
 </div>
 :::
+---
 
 
 
 
 ### 📘 The General Ledger Setup page
+---
 
 On the General Ledger Setup page, you specify how to handle certain accounting issues in your company, such as:
 - Invoice rounding details
@@ -20,6 +23,7 @@ On the General Ledger Setup page, you specify how to handle certain accounting i
 - Financial reporting
 
 ### 📘 The General Posting Setup page
+---
 
 Similarly, on the General Posting Setup page, you specify how you want to set up combinations of general business and general product posting groups. Posting groups map entities such as customers, vendors, items, resources, and sales and purchase documents to general ledger accounts. You fill in a line for each combination of business posting group and product posting group. But you can also open each line in its own posting setup card. Learn more at Posting Group Setups.
 
@@ -49,6 +53,7 @@ To get to the General Ledger Setup:
 [PICTURE/SCREENSHOT]
 
 ## Exploring the General FastTab:
+---
 
 #### Follow these steps:
 
@@ -87,6 +92,7 @@ To get to the General Ledger Setup:
     - **Enable Data Check:** Decide whether Business Central validates data input in real-time, ensuring accuracy and integrity in financial transactions.
 
 ## Exploring the Dimensions FastTab Setup
+---
 ### Overview:
 The Dimensions FastTab allows you to configure global and shortcut dimensions, essential for analysis reports and efficient data entry.
 
@@ -98,6 +104,7 @@ The Dimensions FastTab allows you to configure global and shortcut dimensions, e
 4. You can add up to six additional shortcut dimensions for fast entry.
 
 ## Exploring the Background Posting FastTab Setup
+---
 ### Overview:
 The Background Posting FastTab enables you to schedule general ledger postings using job queue entries, facilitating automated processes.
 
@@ -109,6 +116,7 @@ The Background Posting FastTab enables you to schedule general ledger postings u
 - **Report Output Type:** Specify the report output format scheduled with job queue entries for post and print actions.
 
 ## Exploring the Reporting FastTab Setup
+---
 ### Overview:
 The Reporting FastTab helps configure reporting currencies and account schedules for financial reports.
 
@@ -120,6 +128,7 @@ The Reporting FastTab helps configure reporting currencies and account schedules
     - Select **Process** > **Generate Account Schedules**.
 
 ## Exploring the Application FastTab Setup
+---
 ### Overview:
 The Application FastTab allows for the configuration of currency rounding tolerance and payment application settings.
 

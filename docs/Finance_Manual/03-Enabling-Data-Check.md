@@ -1,9 +1,11 @@
 # Enabling Data Check
+---
 
 ## Overview:
 The Enable Data Check feature in Business Central helps to identify and alert you about potential data issues in documents and journals, preventing errors that could affect posting
 
 ## Instructions:
+---
 
 1. **Accessing General Ledger Setup:**
     - Navigate to the General Ledger Setup page.
