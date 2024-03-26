@@ -4,15 +4,22 @@ title: Introduction to Procurement Module
 sidebar_label: Introduction to Procurement
 ---
 
-<div class="procurement-intro-container">
-    <h2 class="procurement-intro-heading">Introduction to Procurement Module</h2>
+:::note Business Central
+<div class="container">
+    <div class="custom-note">
+        <h2 class="procurement-intro-heading">Introduction to Procurement Module</h2>
     <p>Welcome to the Procurement Module of Dynamics 365 Business Central! This section will provide you with an overview of procurement, its importance in business operations, and the key features and capabilities offered by the procurement module in Business Central.</p>
+    </div>
 </div>
+:::
+
+---
 
 ## Overview of Procurement
+---
 
 <div class="procurement-overview-container">
-    <h3>What is Procurement?</h3>
+    <h3 class="underline">What is Procurement?</h3>
     <p>Procurement refers to the process of acquiring goods, services, or works from an external source. It involves activities such as sourcing suppliers, negotiating contracts, purchasing goods or services, and managing supplier relationships.</p>
 </div>
 
@@ -27,6 +34,7 @@ sidebar_label: Introduction to Procurement
 </div>
 
 ## Key Features and Capabilities
+---
 
 <div class="procurement-features-container">
     <h3>Overview of Dynamics 365 Business Central Procurement Module</h3>
@@ -51,6 +59,7 @@ sidebar_label: Introduction to Procurement
 </div>
 
 ## Who Should Use This Guide?
+---
 
 <div class="guide-audience-container">
     <h3>Who should use this guide?</h3>

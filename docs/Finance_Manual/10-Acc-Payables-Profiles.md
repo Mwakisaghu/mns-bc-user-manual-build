@@ -1,7 +1,11 @@
 # 📦 Setting Up Accounts Payable Posting Profiles
 ---
 
-Posting profiles play a crucial role in defining summary accounts for vendors, ensuring accurate and efficient financial management. Let's dive into configuring accounts payable posting profiles:
+<div class="customized-intro-container" id="introduction">
+    <p> Posting profiles play a crucial role in defining summary accounts for vendors, ensuring accurate and efficient financial management. Let's dive into configuring accounts payable posting profiles: </p>
+</div>
+
+---
 
 ## Understanding Posting Profiles
 ---

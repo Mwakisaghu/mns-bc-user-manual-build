@@ -1,18 +1,11 @@
 # Setting Up Finance
 ---
 
-:::note Business Central
-<div class="container">
-    <div class="custom-note">
-        <h1>General ledger setup and general posting setup.</h1>
-        <p>The setup of the general ledger is at the core of financial processes because it defines how you post data. Two pages in particular play an important part in configuring your finance processes: 🤗</p>
-    </div>
+<div class="customized-intro-container" id="introduction">
+    <h2 class="finance-setups"> General ledger setup and general posting setup. </h2>
+    <p> The setup of the general ledger is at the core of financial processes because it defines how you post data. Two pages in particular play an important part in configuring your finance processes: 🤗 </p>
 </div>
-:::
 ---
-
-
-
 
 ### 📘 The General Ledger Setup page
 ---

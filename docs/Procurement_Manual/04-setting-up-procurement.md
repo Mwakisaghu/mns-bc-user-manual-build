@@ -7,7 +7,7 @@ sidebar_label: Setting Up Procurement
 :::note Business Central
 <div class="container">
     <div class="custom-note">
-        <h1>Setting Up the Procurement Module</h1>
+        <h2>Setting Up the Procurement Module</h2>
         <p>
 Hello! lets get started with setting up the procurement section! This guide will walk you through the necessary steps to configure and customize the procurement module in <strong>Dynamics 365 Business Central</strong>. 🚀</p>
     </div>
@@ -15,8 +15,10 @@ Hello! lets get started with setting up the procurement section! This guide will
 :::
 
 ## Configuring Procurement Settings.
+---
 
 ### General Setup Options
+---
 
 1. Navigate to the **General Setup** page:
    - Click on the Settings icon.
@@ -25,6 +27,7 @@ Hello! lets get started with setting up the procurement section! This guide will
    - Configure settings such as **discounts** and **rounding preferences**.
 
 ### Purchase and Payables Setup
+---
 
 1. Access the Purchase & Payables Setup page:
    - Click on the search icon, enter ![icon](image.png) ***purchases and payables*** and then choose the related list.
@@ -42,6 +45,7 @@ In cases where there is a dropdown, choose **New** to create a new field or sele
 :::
 
 ### Vendor Management Configuration
+---
 
 1. Navigate to the **Order Planning** section:
    - Alternatively, click on the search bar and search for **Vendors**.
@@ -51,27 +55,33 @@ In cases where there is a dropdown, choose **New** to create a new field or sele
    - Configure vendor categories, payment terms, and other relevant information.
 
 ## Defining Purchase Policies and Procedures
+---
 
 ### Establishing Purchase Policies
+---
 
 1. Define purchase policies:
    - Establish guidelines for procurement activities, including purchasing thresholds and preferred suppliers.
 
 ### Defining Approval Workflows
+---
 
 2. Implement approval workflows:
    - Define approval rules based on factors such as **purchase amount** and **vendor category**.
 
 
 ## Setting Up Vendors
+---
 
 ### Register New Vendors
+---
 - Vendor cards contain the information required to buy products from each vendor.
 
 - Before registering new vendors, ensure that various **purchase codes** are set up to select from when filling in vendor cards. 
 - Record any agreements regarding **discounts**, **prices**, and **payment methods** within the vendors page.
 
 ### Adding New Vendors
+---
 
 Add new vendors either manually by filling out the Vendor Card page.
 
@@ -84,6 +94,7 @@ Add new vendors either manually by filling out the Vendor Card page.
 The vendor is now registered, and the vendor card is ready for use on purchase documents.
 
 ### Deleting and Editing Vendor Information
+---
 
 Vendor information can be edited at any time, except if transactions have been posted for the vendor.
 
@@ -94,7 +105,9 @@ Vendor information can be edited at any time, except if transactions have been p
 :::tip
 
 ## Bank Details Setup
+---
 ### Add or edit a vendor bank account
+---
 - Choose the ![icon](image.png) that opens the Tell Me feature. icon, enter Vendors, and then choose the related link.
 - Open the vendor card.
 - Choose the Bank Details section.

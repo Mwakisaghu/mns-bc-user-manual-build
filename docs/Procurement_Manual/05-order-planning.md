@@ -1,18 +1,26 @@
 #  🛒 Order Planning
+---
 
-<div class="order-planning-section">
-    <h2 class="order-planning-intro-heading">Objective : To efficiently plan and execute procurement processes.</h2>
-    <p>
-    Order planning is a critical phase in the procurement cycle, ensuring that all necessary steps are taken to effectively acquire goods and services required for business operations. This section outlines the comprehensive process of order planning, covering items, vendors, and budgeting.
-    </p>
+:::note Order Planning
+<div class="container">
+    <div class="custom-note">
+        <h2>🛒 Order Planning </h2>
+        <p>Objective : To efficiently plan and execute procurement processes. 🚀</p>
+    </div>
 </div>
+:::
+
+---
+
+Order planning is a critical phase in the procurement cycle, ensuring that all necessary steps are taken to effectively acquire goods and services required for business operations. This section outlines the comprehensive process of order planning, covering items, vendors, and budgeting.
 
 ### Managing Items
+---
 
-**Navigate to "Items" within the Order Planning Section:**
+**Navigate to *Items* within the Order Planning Section:**
 
 - Access the Business Central dashboard.
-- Locate and click on the "Items" section.
+- Locate and click on the **Items** section.
 
 <!-- ![Screenshot: Item Master Section](path/to/item_master_screenshot.png) *(Add screenshot here)* -->
 
@@ -20,7 +28,7 @@ This section serves as a repository for all essential item-related data.
 
 **Add or Edit Items:**
 
-- Select "New" to add a new item to the item list/catalogue.
+- Select **New** to add a new item to the item list/catalogue.
 - Carefully edit existing items as necessary, ensuring accuracy and relevance.
 - Provide comprehensive item details including description, pricing, specifications, and any other pertinent information.
 
@@ -37,8 +45,9 @@ This section serves as a repository for all essential item-related data.
 - Upon completion of item data entry or modification, changes made on the item card are automatically saved.
 
 ### Vendor Selection and Management
+---
 
-**Access the "Vendors" Module:**
+**Access the *Vendors* Module:**
 
 - Navigate to the main menu of Business Central.
 - Locate and click on the "Vendors" module to access vendor management functionalities.
@@ -62,6 +71,7 @@ This section serves as a repository for all essential item-related data.
 - Maintain open communication channels to address any issues or concerns promptly.
 
 ### Budgeting for Procurement Activities
+---
 
 **Utilize Budgeting Feature:**
 

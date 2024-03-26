@@ -1,6 +1,16 @@
 #  🛒 Purchase Orders
+---
 
-**Objective**: Generate and process purchase orders for approved requisitions or selected quotations.
+:::note Purchase Orders
+<div class="container">
+    <div class="custom-note">
+        <h2>🛒 Purchase Orders</h2>
+        <p> Objective: Generate and process purchase orders for approved requisitions or selected quotations. 🚀</p>
+    </div>
+</div>
+:::
+
+---
 
 ### Generating Purchase Orders
 

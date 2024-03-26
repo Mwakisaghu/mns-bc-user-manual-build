@@ -1,11 +1,14 @@
 # 📦 Configuring Payment Schedules
 ---
 
-Welcome to the Payment Schedules Configuration guide in Dynamics 365 Finance! Payment schedules allow you to manage your invoices in installments, offering flexibility in financial transactions. Let's walk through the steps to set up your payment schedules efficiently:
+<div class="customized-intro-container" id="introduction">
+    <p> Welcome to the Payment Schedules Configuration guide in Dynamics 365 Finance! Payment schedules allow you to manage your invoices in installments, offering flexibility in financial transactions. Let's walk through the steps to set up your payment schedules efficiently: 🤗 </p>
+</div>
 
 ---
 
 ## Step 1: Define Elements
+---
 
 🔍 **Tip:** Before you start, gather the following details:
 - **Number of Installments**
@@ -17,6 +20,7 @@ Remember, payment schedules consist of consecutive payments in specified time in
 ---
 
 ## Step 2: Allocation Methods
+---
 
 💡 **Tip:** Choose from various allocation methods:
 - **Total:** Pay the total outstanding amount on the invoice.
@@ -27,6 +31,7 @@ Remember, payment schedules consist of consecutive payments in specified time in
 ---
 
 ## Step 3: Setting Up Payment Schedule
+---
 
 🛠️ **Action:** Navigate to *Accounts Payable* > *Payment Setup* > *Payment Schedules*.
 If Allocation is set to *Specified*:
@@ -38,6 +43,7 @@ If Allocation is set to *Specified*:
 ---
 
 ## Step 4: Completing Setup
+---
 
 ✅ **Action:** If Allocation is set to *Fixed Amount* or *Fixed Quantity*:
 - On the General FastTab, select the payment interval.
@@ -50,6 +56,7 @@ If Allocation is set to *Specified*:
 ---
 
 ## Step 5: Finalizing Setup
+---
 
 🔍 **Review:** Review all details entered and save the payment schedule configuration.
 

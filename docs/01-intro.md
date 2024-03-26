@@ -13,16 +13,20 @@ sidebar_position: 1
     </div>
 </div>
 :::
+---
 
 ## Introduction to Business Central
+---
 
 Welcome to Microsoft Dynamics 365 Business Central! This section will provide you with an overview of the platform, its key features, system requirements, and how to access and navigate Business Central.
 
 ### Overview
+---
 
 Microsoft Dynamics 365 Business Central is a comprehensive business management solution designed to streamline operations, automate processes, and empower decision-making. With Business Central, you can manage finances, sales, service, and operations efficiently, all in one integrated platform.
 
 ### Key Features
+---
 
 Versatility: Business Central empowers companies to manage multiple facets of their operations, from finance and manufacturing to sales, shipping, project management, and services.
 
@@ -33,6 +37,7 @@ Versatility: Business Central empowers companies to manage multiple facets of th
 - **Innovation**: The simplicity of Business Central guides innovations in product design, development, and implementation, enhancing usability and driving efficiency.
 
 ### System Requirements
+---
 
 Before you get started with Business Central, ensure that your system meets the following requirements:
 
@@ -42,6 +47,7 @@ Before you get started with Business Central, ensure that your system meets the 
 - **User Licenses:** Make sure you have the necessary user licenses to access Business Central features based on your organization's subscription plan.
 
 ### Accessing Business Central
+---
 
 To access Microsoft Dynamics 365 Business Central, follow these steps:
 
@@ -61,3 +67,5 @@ To access Microsoft Dynamics 365 Business Central, follow these steps:
 
 
 **Congratulations! You're now equipped with the knowledge to begin your journey with Microsoft Dynamics 365 Business Central.**
+
+---

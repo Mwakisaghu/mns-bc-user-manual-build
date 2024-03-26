@@ -4,12 +4,14 @@ title: Getting Started with Financial Management
 sidebar_label: Introduction to Finance
 ---
 
-<div class="procurement-intro-container">
-    <h2 class="procurement-intro-heading">Welcome to the Business Central Finance Module User Guide!</h2>
-    <p>This comprehensive guide is designed to help you navigate through the intricacies of managing your company's financial processes using Business Central. Whether you're setting up finance for the first time or looking to streamline your accounting practices, this guide has you covered.</p>
+:::note Business Central
+<div class="container">
+    <div class="custom-note">
+      <h2 class="procurement-intro-heading">Welcome to the Business Central Finance Module User Guide!</h2>
+        <p>This comprehensive guide is designed to help you navigate through the intricacies of managing your company's financial processes using Business Central. Whether you're setting up finance for the first time or looking to streamline your accounting practices, this guide has you covered. 🤗</p>
+    </div>
 </div>
- 
-Before you can begin to run your business, you must specify how you want to manage your company's financial processes.
+:::
 
 ## [Setting Up Finance](#Setting-up-finance)
 ---

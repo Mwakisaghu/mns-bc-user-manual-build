@@ -1,8 +1,12 @@
 # Enabling Data Check
 ---
 
-## Overview:
-The Enable Data Check feature in Business Central helps to identify and alert you about potential data issues in documents and journals, preventing errors that could affect posting
+<div class="customized-intro-container" id="introduction">
+    <h2 class="finance-setups"> Overview: </h2>
+    <p> The Enable Data Check feature in Business Central helps to identify and alert you about potential data issues in documents and journals, preventing errors that could affect posting 🤗 </p>
+</div>
+
+---
 
 ## Instructions:
 ---

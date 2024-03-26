@@ -13,12 +13,15 @@ sidebar_position: 2
     </div>
 </div>
 :::
+---
 
 ## Quick Start Guide
+---
 
 Welcome to Dynamics 365 Business Central! This quick start guide will help you get started with the basic features of the platform.
 
 ### 1. Sign In to Business Central
+---
 
 To access your Dynamics 365 Business Central account:
 
@@ -27,12 +30,14 @@ To access your Dynamics 365 Business Central account:
 - Click **Sign In** to access your account.
 
 ### 2. Navigate the Dashboard / Role Center
+---
 
 Once logged in, you'll be taken to the Business Central dashboard. Here you can:
 - View key metrics and insights about your business.
 - Access various role centers such as Finance, Credit, Business Loans, Treasury & Investment, Legal, etc.
 
 ### 3. Setting Up Your Company
+---
 
 Before you can start using Business Central, you'll need to set up your company profile:
 - Click on the **Company Settings** or **Settings** menu option.
@@ -46,10 +51,12 @@ Before you can start using Business Central, you'll need to set up your company 
 ![alt text](../static/img/merged.png)
 
 ## Next Steps: Exploring Business Central
+---
 
 Now that you've completed the initial setup, let's explore more about Microsoft Dynamics 365 Business Central and delve deeper into its functionalities for your business needs.
 
 ### Setting Up Your Profile
+---
 
 To get started, follow these steps to set up your user profile:
 
@@ -63,6 +70,7 @@ To get started, follow these steps to set up your user profile:
 :::
 
 ### Personalizing the Workspace
+---
 
 Customizing your workspace can improve productivity and efficiency. Here's how to personalize your Business Central environment:
 
@@ -76,6 +84,7 @@ Customizing your workspace can improve productivity and efficiency. Here's how t
 :::
 
 ### Understanding Role Centers
+---
 
 Role Centers are tailored dashboards designed to optimize productivity for specific roles within the organization. Here's how to navigate and understand Role Centers:
 
@@ -89,3 +98,5 @@ Role Centers are tailored dashboards designed to optimize productivity for speci
 :::
 
 Congratulations! You've successfully completed the initial setup and customization of your Business Central environment. Now you're ready to dive into the various features and functionalities offered by Business Central.
+
+---

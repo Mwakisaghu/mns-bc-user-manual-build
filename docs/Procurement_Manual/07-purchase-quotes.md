@@ -1,13 +1,16 @@
 #  🛒 Purchase Quotes
+---
 
 :::note Purchase Quotes
 <div class="container">
     <div class="custom-note">
-        <h1>🛒 Purchase Quotes & RFQs</h1>
-        <p>Objective: Solicit and compare quotes from vendors for required goods or services. 🚀</p>
+        <h2>🛒 Purchase Quotes & RFQs</h2>
+        <p> Objective: Solicit and compare quotes from vendors for required goods or services. 🚀</p>
     </div>
 </div>
 :::
+
+---
 
 ### Request for Quotation (RFQ) Process. 📝 
 ### Accessing Purchase Quotes:

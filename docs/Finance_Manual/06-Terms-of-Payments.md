@@ -1,7 +1,9 @@
 # 📦 Configuring Terms of Payment and Payment Days
 ---
 
-Welcome to the setup guide for terms of payment and payment days in Dynamics 365 Finance! Efficient management of payment terms and due dates is crucial for smooth financial transactions. Let's dive into the setup process:
+<div class="customized-intro-container" id="introduction">
+    <p> Welcome to the setup guide for terms of payment and payment days in Dynamics 365 Finance! Efficient management of payment terms and due dates is crucial for smooth financial transactions. Let's dive into the setup process: 🤗 </p>
+</div>
 
 ---
 

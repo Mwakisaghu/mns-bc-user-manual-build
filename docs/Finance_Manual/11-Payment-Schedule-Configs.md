@@ -1,7 +1,11 @@
 # 📦 Payment Schedule Configuration in Dynamics 365 Finance
 ---
 
-In Dynamics 365 Finance, the setup of payment schedules plays a pivotal role in managing customer payments efficiently. Before delving into the configuration process, it's important to note that certain payment setups are shared between Accounts Payable and Accounts Receivable, including payment days, payment schedules, terms of payment, and cash discounts.
+<div class="customized-intro-container" id="introduction">
+    <p> In Dynamics 365 Finance, the setup of payment schedules plays a pivotal role in managing customer payments efficiently. Before delving into the configuration process, it's important to note that certain payment setups are shared between Accounts Payable and Accounts Receivable, including payment days, payment schedules, terms of payment, and cash discounts. </p>
+</div>
+
+---
 
 ## Understanding Payment Schedules
 ---

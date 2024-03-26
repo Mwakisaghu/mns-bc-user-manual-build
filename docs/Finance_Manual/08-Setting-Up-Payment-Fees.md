@@ -1,7 +1,11 @@
 # 📦 Setting Up Payment Fees
 ---
 
-Payment fees allow you to manage additional charges associated with vendor invoices efficiently. Let's dive into setting up payment fees seamlessly:
+<div class="customized-intro-container" id="introduction">
+    <p> Payment fees allow you to manage additional charges associated with vendor invoices efficiently. Let's dive into setting up payment fees seamlessly: 🤗 </p>
+</div>
+
+---
 
 ## Utilizing Payment Fees
 ---

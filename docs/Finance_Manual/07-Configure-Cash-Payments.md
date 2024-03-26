@@ -1,8 +1,9 @@
 # 📦 Configuring Cash Discounts
 ---
 
-Welcome to the Cash Discounts Configuration guide in Dynamics 365 Finance! Cash discounts provide opportunities for savings on vendor invoices, ensuring efficient financial management. Let's explore how to set up cash discounts effectively:
-
+<div class="customized-intro-container" id="introduction">
+    <p> Welcome to the Cash Discounts Configuration guide in Dynamics 365 Finance! Cash discounts provide opportunities for savings on vendor invoices, ensuring efficient financial management. Let's explore how to set up cash discounts effectively: 🤗 </p>
+</div>
 ---
 
 ## Skyworld's Cash Discount Strategy

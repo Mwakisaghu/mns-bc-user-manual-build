@@ -1,7 +1,11 @@
 # 📦 Creating Vendor Groups
 ---
 
-Vendor groups enable you to organize vendors based on shared characteristics, streamlining information management and default settings. Let's embark on setting up vendor groups effectively:
+<div class="customized-intro-container" id="introduction">
+    <p> Vendor groups enable you to organize vendors based on shared characteristics, streamlining information management and default settings. Let's embark on setting up vendor groups effectively: 🤗 </p>
+</div>
+
+---
 
 ## Understanding Vendor Groups
 ---

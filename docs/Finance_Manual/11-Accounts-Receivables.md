@@ -1,7 +1,11 @@
 # 📦 Introduction to Dynamics 365 Finance Accounts Receivable Setup
 ---
 
-In this module, you'll dive into configuring the Accounts Receivable module to facilitate the creation of customer invoices, packing slips, and handling various payment types. 
+<div class="customized-intro-container" id="introduction">
+    <p> In this module, you'll dive into configuring the Accounts Receivable module to facilitate the creation of customer invoices, packing slips, and handling various payment types. </p>
+</div>
+
+---
 
 ## Module Objectives
 ---
