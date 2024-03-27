@@ -44,7 +44,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: 'PROJECT MWANGA',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.svg',np
         },
         items: [
           {
