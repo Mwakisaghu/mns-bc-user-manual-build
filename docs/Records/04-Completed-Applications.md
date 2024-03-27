@@ -1,9 +1,9 @@
-# Completed Applications.
+# Completed Applications
 ---
+
 <div class="customized-intro-container" id="introduction">
-    <h2 class="overtime-management"> Objective : </h2>
-    <p> Welcome to the Completed Applications section of the Records Role Center in Business Central. This section provides detailed instructions on managing various types of completed applications within the module.
-    </p>
+    <h2 class="overtime-management"> Objective: </h2>
+    <p> Welcome to the Completed Applications section of the Records Role Center in Business Central. This section provides detailed instructions on managing various types of completed applications within the module.</p>
 </div>
 
 ---
@@ -21,11 +21,11 @@ To access the completed applications, follow these steps:
 
 ### Member Single
 
-- This section displays details of completed applications related to individual members.
+This section displays details of completed applications related to individual members.
 
 ### Savings Accounts
 
-- View and manage completed applications related to savings accounts.
+View and manage completed applications related to savings accounts.
 
 ### Member Files
 
@@ -54,7 +54,6 @@ To access the completed applications, follow these steps:
 - **Archived File Tracker List**: Displays an archived list of file trackers for completed applications.
 
 ### Checkoff Advise Process
----
 
 - **Checkoff Advice**: Provides details about completed checkoff advice processes.
   

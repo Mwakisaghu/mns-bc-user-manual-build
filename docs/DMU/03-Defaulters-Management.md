@@ -2,10 +2,10 @@
 ---
 
 <div class="customized-intro-container" id="introduction">
-    <p> In this section, we'll guide you through effectively managing and identifying defaulters within the system. Business Central provides powerful tools and modules to assist you in this process.
-
-This module simplifies the process of identifying and managing accounts that have defaulted on loan payments. </p>
+    <p> In this section, we'll guide you through effectively managing and identifying defaulters within the system. Business Central provides powerful tools and modules to assist you in this process.</p>
+    <p>This module simplifies the process of identifying and managing accounts that have defaulted on loan payments.</p>
 </div>
+
 
 ---
 

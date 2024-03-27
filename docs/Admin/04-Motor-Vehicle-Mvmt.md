@@ -3,9 +3,9 @@
 
 <div class="customized-intro-container" id="introduction">
     <h2 class="product-variations"> Objective :</h2>
-    <p>The Motor Vehicle Movement module within the Fleet Management system enables users to efficiently track and manage the movement of company vehicles. This section provides a detailed guide on how to navigate and utilize the features available in the Motor Vehicle Movement section.
-    </p>
+    <p>The Motor Vehicle Movement module within the Fleet Management system enables users to efficiently track and manage the movement of company vehicles. This section provides a detailed guide on how to navigate and utilize the features available in the Motor Vehicle Movement section.</p>
 </div>
+
 
 ---
 

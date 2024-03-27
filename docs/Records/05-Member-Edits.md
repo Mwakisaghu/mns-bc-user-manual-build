@@ -3,8 +3,7 @@
 
 <div class="customized-intro-container" id="introduction">
     <h2 class="overtime-management"> Objective : </h2>
-    <p> Welcome to the Member Edits section of the Records Role Center user manual. This section provides detailed instructions on managing member edits and dependency applications within the module.
-    </p>
+    <p> Welcome to the Member Edits section of the Records Role Center user manual. This section provides detailed instructions on managing member edits and dependency applications within the module.</p>
 </div>
 
 -------

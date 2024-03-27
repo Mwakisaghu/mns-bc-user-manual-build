@@ -1,10 +1,9 @@
 # Loan Attachment
-
 ---
 
 <div class="customized-intro-container" id="introduction">
-    <p> This guide provides comprehensive instructions on attaching defaulted loans to guarantors using the Business Central platform. Efficient management of loan attachment is crucial for debt recovery and financial stability. The manual will walk you through the attachment process, automated functions, transaction handling, messaging and alerts, account management, administrative features, reversal of attached loans, and integration with data management systems. 
-    </p>
+    <h2 class="product-variations"> Objective :</h2>
+    <p>This guide provides comprehensive instructions on attaching defaulted loans to guarantors using the Business Central platform. Efficient management of loan attachment is crucial for debt recovery and financial stability. The manual will walk you through the attachment process, automated functions, transaction handling, messaging and alerts, account management, administrative features, reversal of attached loans, and integration with data management systems.</p>
 </div>
 
 ---
@@ -27,7 +26,8 @@ Before we proceed, let's familiarize ourselves with some key terms:
 
 Attachment begins with identifying defaulted loans and selecting those eligible for attachment. You can search for defaulter details using various criteria such as member number, name, loan number, etc.
 
-:::info To view defaulter details:
+:::info 
+To view defaulter details:
 
 1. Navigate to the **Lists** section on the dashboard.
 2. Select **Loan List**.

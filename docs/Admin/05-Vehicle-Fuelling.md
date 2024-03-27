@@ -3,9 +3,9 @@
 
 <div class="customized-intro-container" id="introduction">
     <h2 class="product-variations"> Objective :</h2>
-    <p>This section facilitates the management of fueling requests for company vehicles, from initiation to approval or rejection to facilitate efficient managing of fuel requests and consumption monitoring.
-    </p>
+    <p>This section facilitates the management of fueling requests for company vehicles, from initiation to approval or rejection to facilitate efficient managing of fuel requests and consumption monitoring.</p>
 </div>
+
 
 ---
 

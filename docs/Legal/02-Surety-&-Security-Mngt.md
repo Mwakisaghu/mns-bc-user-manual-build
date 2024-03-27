@@ -1,10 +1,9 @@
 # Surety and Security Management.
 ---
 
-<div class="customized-intro-container" id="introduction">
-    <h2 class="configuring-hr-setups"> Objective : </h2>
-    <p> This guide will provide detailed instructions on navigating various aspects of surety and security affairs within the organization, ensuring robust protection and compliance. </p>
-</div>
+:::note Objective :
+This guide will provide detailed instructions on navigating various aspects of surety and security affairs within the organization, ensuring robust protection and compliance.
+:::
 
 ## Accessing Surety and Security Management
 ---
@@ -87,7 +86,7 @@ The Security Perfection section oversees the process of perfecting securities wi
 - **Perfected Securities List:** Comprehensive list of perfected securities.
 - **Security Perfection Tracking:** Subsections tracking securities at different stages.
 
-:::tipnew
+:::tip new
 Search, analyze, initiate new processes, and edit lists in certain subsections.
 :::
 

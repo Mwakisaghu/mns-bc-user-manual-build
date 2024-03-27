@@ -1,15 +1,18 @@
-# Member Applications.
+# Member Applications
+
 ---
+
 <div class="customized-intro-container" id="introduction">
     <h2 class="overtime-management"> Objective : </h2>
-    <p> Welcome to the Ongoing Member Applications section of the Records Role Center user manual. This section provides comprehensive instructions on managing various types of ongoing member applications, including those from CRM, Mwalimu Smart, and readmissions.
-    </p>
+    <p> Welcome to the Ongoing Member Applications section of the Records Role Center user manual. This section provides comprehensive instructions on managing various types of ongoing member applications, including those from CRM, Mwalimu Smart, and readmissions.</p>
 </div>
 
 ---
 
 ## Ongoing Member Applications
+
 ---
+
 :::info
 To access the ongoing member applications, follow these steps:
 
@@ -19,6 +22,7 @@ To access the ongoing member applications, follow these steps:
 :::
 
 ## Types of Member Applications
+
 ---
 
 ### All Member Applications List
@@ -26,7 +30,6 @@ To access the ongoing member applications, follow these steps:
 The **All Member Applications List** provides an overview of all ongoing member applications, regardless of their current status. This list serves as a centralized dashboard to monitor all ongoing application processes.
 
 ### CRM Member Applications
----
 
 Managing member applications originating from CRM involves several stages. Here's a breakdown of the available lists:
 
@@ -45,7 +48,6 @@ Managing member applications originating from CRM involves several stages. Here'
 - **Archived Application List**: Lists archived member applications for reference and historical purposes.
 
 ### Mwalimu Smart Applications
----
 
 The Mwalimu Smart Applications section includes lists related to Mwalimu Smart applications:
 
@@ -58,7 +60,6 @@ The Mwalimu Smart Applications section includes lists related to Mwalimu Smart a
 - **Deferred Application List**: Lists Mwalimu Smart applications that have been deferred for further review or information.
 
 ### Readmission Applications
----
 
 Managing readmission applications involves several stages as well. Here are the available lists:
 
