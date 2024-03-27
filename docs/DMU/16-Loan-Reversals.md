@@ -1,4 +1,4 @@
-# Loan Reversal.
+# Loan Reversal Guide
 ---
 
 <div class="customized-intro-container" id="introduction">
@@ -15,50 +15,37 @@ The reversal of attached loans is a crucial process in debt management, allowing
 
 Accessing the Loan Reversal Feature in Business Central is simple. Follow these steps:
 1. **Login to Business Central:** Use your credentials to log in to your Business Central account.
-2. **Navigate Debt Management Unit:** Once logged in, locate **Loan Activity** from the navigation bar or dashboard.
+2. **Navigate to Debt Management Unit:** Once logged in, navigate to the **Loan Activity** section.
 - Choose either **New System Recoveries** or **Old System Recoveries**.
-- You will see a list - **Loan Attachement, Loan Reapportionment and Loan Reversal**
-3. Select **Loan Reversal** and click on it.
+- You will see a list - **Loan Attachement, Loan Reapportionment, and Loan Reversal**
+3. Select **Loan Reversal** from the list.
 
 Once you've accessed the **Reversals' section**, you can begin managing loans using the features and functionalities provided.
 :::
 ---
 
-## Functionality
-
-### 7.1. Receiving Escalated Cases
-- The system allows for receiving cases escalated from other departments for reversal.
-- To access escalated cases:
-  - Navigate to the Reversals section.
-  - Select the option to view escalated cases.
-
-### 7.2. Raising Reversal Cases
+### Raising Reversal Cases
+---
 - The system enables DMU to raise reversal cases from the department.
 - To raise a reversal case:
   - Navigate to the Reversals section.
-  - Choose the option to raise a new reversal case.
+  - Choose **New** to raise a new reversal case.
 
-### 7.3. Loan Reversal Submodule
-- The system provides a dedicated submodule for managing loan reversals.
-- Access the loan reversal submodule from the main Reversals menu.
 
-### 7.4. Search for Defaulter Details
-- Users can search for defaulter details using various criteria such as member number, TSC number, or loan number.
-- Utilize the search functionality within the Reversals module to find defaulter details.
-
-### 7.5. Display Loan Reversal Details
-- The system displays comprehensive details for loan reversals, including:
+### Displaying Loan Reversal Details
+---
+- The system shows comprehensive details for loan reversals, including:
   - Loan number
   - Guarantor member number and name
   - Attached loan amount
-  - Refund amount
+  - Amount to be refunded
   - Reapportioned amounts
   - Shares to be reversed
   - Total loan to defaulter
 
-### 7.6. Automated Reversal of Attached Deposits
+### Automated Reversal of Attached Deposits
 - The system automates the reversal of attached deposits to their original position before attachment.
-- Ensure adherence to the double entry rule with specific justifications for reversal.
+- Ensure adherence to the double entry rule with a specific justification for reversal.
 
 ### 7.7. Automatic Reversal with Maker Checker Control
 - Automated reversal of attached loans with maker checker control is supported.
@@ -141,4 +128,4 @@ Once you've accessed the **Reversals' section**, you can begin managing loans us
 - Upon reversal, the system automatically sends SMS notifications to defaulters and guarantors, providing details of the reversal.
 
 ## Conclusion
-The reversal of attached loans is a comprehensive process that ensures accuracy and efficiency in debt management operations. By leveraging the functionalities provided by the system, users can effectively manage loan reversals, refunds, and associated transactions, thereby maintaining financial integrity and member satisfaction.
+The reversal of attached loans is a comprehensive process that ensures accuracy and efficiency in debt management operations. By leveraging the functionalities provided by the system, users can effectively manage loan reversals, refunds, and associated transactions,
